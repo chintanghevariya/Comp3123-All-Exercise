@@ -1,0 +1,6 @@
+{
+    "name": "gbc",
+    "version": "1.0.0",
+    "description": "Sample module",
+    "main": "MyDate.js"
+}

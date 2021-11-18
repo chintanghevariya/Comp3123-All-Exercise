@@ -1,0 +1,18 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "Working with local modules",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Module",
+    "local",
+    "http",
+    "nodjs"
+  ],
+  "author": "chintan Patel",
+  "license": "ISC"
+}

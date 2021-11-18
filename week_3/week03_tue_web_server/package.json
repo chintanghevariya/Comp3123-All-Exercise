@@ -1,0 +1,23 @@
+{
+  "name": "week03_tue_web_server",
+  "version": "1.0.0",
+  "description": "Sample web server example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "nodejs",
+    "express",
+    "json",
+    "nodemon"
+  ],
+  "author": "Chintan Ghevariya",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
